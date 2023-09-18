@@ -21,5 +21,6 @@
 	Final command executed was `grep -i l /etc/natas_webpass/natas11 dictionary.txt`<br>
 	This command searches for occurences of the letter "l" in both `/etc/natas_webpass/natas11` and `dictionary.txt`.<br>
 
-	For my luck, the password contained the letter "l". So the output included the password.
+	For my luck, the password contained the letter "l". So the output included the password.<br>
+
 Password for level 11 - 1KFqoJXi6hRaPluAmk8ESDW4fSysRoIg
