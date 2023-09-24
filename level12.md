@@ -66,7 +66,8 @@
 	So, when clicked, this path is added to url and is visited by the browser. <br>
 
 	An interesting idea is that, if a php file, instead of jpg or txt, is opened in a browser, it actually executes the php script within the file. All we need to do is create a sample php script and pass it to the input field.<br>
-
+	(Note: It actually processes the file for what it is. Text or image etc will be displayed based on its data, php will be executed)
+	
 	So I created a simple php script to cat out the password. <br>
 
 	```php
