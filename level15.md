@@ -3,8 +3,8 @@
 - username - natas15
 - password - TTkaI7AWG4iDERztBcEyKV7kRXH1EZRB
 
-	There was an input field. We could enter a username and it replies with whether the user exists or not. 
-	Sourcecode:
+	There was an input field. We could enter a username and it replies with whether the user exists or not. <br>
+	Sourcecode: <br>
 	```php
 	/*
 	CREATE TABLE `users` (
@@ -79,11 +79,11 @@
 	```
 
 	This script initiates connection. Then loops over all possible characters, making request with each character as data.
-	The editd query `'natas16" AND BINARY password LIKE "{nxt_passwd+ch}%" #'` 
+	The editd query `'natas16" AND BINARY password LIKE "{nxt_passwd+ch}%" #'`  <br> 
 
-	This means the user is natas16 and password of natas16 consists of password as of now + current character.
-	This evaluates to true if each character is in the password of natas16.
+	This means the user is natas16 and password of natas16 consists of password as of now + current character. <br> 
+	This evaluates to true if each character is in the password of natas16. <br> 
 
-	Finally prints out the password.
+	Finally prints out the password. <br>
 
 Password for level 16 - TRD7iZrd5gATjj9PkPEuaOlfEjHqj32V
